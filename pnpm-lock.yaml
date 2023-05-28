@@ -12,10 +12,10 @@ importers:
 
   packages/example:
     specifiers:
-      '@flippdormann/mobileidevices': workspace:*
+      '@filippdormann/mobileidevices': workspace:*
       nodemon: ^2.0.21
     dependencies:
-      '@flippdormann/mobileidevices': link:../lib
+      '@filippdormann/mobileidevices': link:../lib
     devDependencies:
       nodemon: 2.0.21
 

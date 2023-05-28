@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "main": "usage.js",
   "dependencies": {
-    "@flippdormann/mobileidevices": "workspace:*"
+    "@filippdormann/mobileidevices": "workspace:*"
   },
   "type": "module",
   "scripts": {

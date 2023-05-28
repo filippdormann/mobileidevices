@@ -1,8 +1,8 @@
 {
-  "name": "@flippdormann/mobileidevices",
+  "name": "@filippdormann/mobileidevices",
   "version": "0.0.3",
   "main": "index.js",
-  "repository": "https://github.com/flippdormann/mobileidevices",
+  "repository": "https://github.com/filippdormann/mobileidevices",
   "author": "Filipp Dormann <hi@philipp.run>",
   "license": "MIT",
   "type": "module",
