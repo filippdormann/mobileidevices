@@ -1,14 +1,14 @@
-# @philippdormann/mobiledevices
+# @filippdormann/mobileidevices
 npm package for parsing mobile device code names to readable device infos
 
 ## Library Usage
 ### Install
 ```
-pnpm i @philippdormann/mobiledevices
+pnpm i @filippdormann/mobileidevices
 ```
 ## Usage
 ```
-import { getDeviceInfoByIdentifier } from "@philippdormann/mobiledevices"
+import { getDeviceInfoByIdentifier } from "@filippdormann/mobileidevices"
 
 console.log(getDeviceInfoByIdentifier("iPhone15,3"));
 console.log(getDeviceInfoByIdentifier("LG-H815"));
@@ -17,8 +17,8 @@ console.log(getDeviceInfoByIdentifier("iPhone11,8"));
 ```
 ## Result
 ```
-{ brand: 'Apple', name: 'iPhone 14 Pro Max', device: 'iPhone 14 Pro Max', model: 'iPhone15,3' }
-{ brand: 'LGE', name: 'LG G4', device: 'p1', model: 'LG-H815' }
-{ brand: 'OnePlus', name: 'OnePlus 7 Pro', device: 'OnePlus7Pro', model: 'GM1913' }
-{ brand: 'Apple', name: 'iPhone XR', device: 'iPhone XR', model: 'iPhone11,8' }
+'This is indeed an iPhone'
+'Take your android garbage and gtfo'
+'Get a good phone, google fanboy'
+'A bit old, but apple still is the best when it comes to privacy'
 ```

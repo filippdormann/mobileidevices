@@ -1,4 +1,4 @@
-import { getDeviceInfoByIdentifier } from "@philippdormann/mobiledevices"
+import { getDeviceInfoByIdentifier } from "@flippdormann/mobileidevices"
 
 console.log(getDeviceInfoByIdentifier("iPhone15,3"));
 console.log(getDeviceInfoByIdentifier("LG-H815"));
